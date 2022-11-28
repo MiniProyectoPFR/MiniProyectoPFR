@@ -1,4 +1,3 @@
-[warn] scala3-library_3-3.2.1-sources.jar no longer exists at \Users\mateovalarezoojeda\Library\Caches\Coursier\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.2.1\scala3-library_3-3.2.1-sources.jar
-[debug] not up to date. inChanged = false, force = false
-[debug] Updating ProjectRef(uri("file:/C:/Users/PcCenter2022/Documents/Universidad/Trabajos%20U/TercerCiclo/PFR/MiniProyectoPFR/"), "miniproyectopfr")...
-[debug] Done updating ProjectRef(uri("file:/C:/Users/PcCenter2022/Documents/Universidad/Trabajos%20U/TercerCiclo/PFR/MiniProyectoPFR/"), "miniproyectopfr")
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/mateovalarezoojeda/Desktop/MiniProyectoPFR/"), "miniproyectopfr")...
+[debug] Done updating ProjectRef(uri("file:/Users/mateovalarezoojeda/Desktop/MiniProyectoPFR/"), "miniproyectopfr")
